@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name Device)(type Legacy)(uri "/usr/share/kicad/symbols/Device.kicad_sym")(options "")(descr "Generic symbols"))
+  (lib (name Connector_Generic)(type Legacy)(uri "/usr/share/kicad/symbols/Connector_Generic.kicad_sym")(options "")(descr "Generic Connectors"))
+  (lib (name Regulator_Linear)(type Legacy)(uri "/usr/share/kicad/symbols/Regulator_Linear.kicad_sym")(options "")(descr "Linear Regulators"))
+  (lib (name MCU_Module)(type Legacy)(uri "/usr/share/kicad/symbols/MCU_Module.kicad_sym")(options "")(descr "ESP8266, ESP32 and similar modules"))
+  (lib (name Logic)(type Legacy)(uri "/usr/share/kicad/symbols/Logic.kicad_sym")(options "")(descr "Logic ICs"))
+  (lib (name Interface_LevelTranslator)(type Legacy)(uri "/usr/share/kicad/symbols/Logic_LevelTranslator.kicad_sym")(options "")(descr "Level shifters like TXS0108E"))
+)

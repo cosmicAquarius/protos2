@@ -1,0 +1,3 @@
+/home/damien/src/embedded/protos2/cmake-build-debug/CMakeFiles/protos2.dir
+/home/damien/src/embedded/protos2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/damien/src/embedded/protos2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
